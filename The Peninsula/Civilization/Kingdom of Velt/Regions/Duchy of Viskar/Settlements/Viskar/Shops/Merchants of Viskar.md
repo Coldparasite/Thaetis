@@ -1,0 +1,8 @@
+[[Trill's Alchemy Shop]]
+[[Yerr's Fletching]]
+[[Chowder's Herbs & Spices]]
+[[Darryl's Workshop]]
+[[Potter Dam Smithy]]
+[[Deet's Magical Mysteries Emporium]]
+[[Skeski's BookStore]]
+[[Inn's of Viskar]]

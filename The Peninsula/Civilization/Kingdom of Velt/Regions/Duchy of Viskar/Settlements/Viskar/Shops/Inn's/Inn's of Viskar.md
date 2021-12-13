@@ -1,0 +1,5 @@
+[[The Guilded Drop]]
+[[The Lying Fox]]
+[[YellowSnap Inn]]
+[[White Water Inn]]
+[[Grimbsby's Tavern]]

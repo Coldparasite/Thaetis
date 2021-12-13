@@ -1,0 +1,36 @@
+{
+  "mapMarkers": [],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": true,
+    "imageUrl": "data:image/png;base64,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"
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "4.4.0",
+  "version": {
+    "major": 4,
+    "minor": 4,
+    "patch": 0
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial"
+}

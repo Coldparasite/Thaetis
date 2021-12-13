@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "061ca4332a79660b",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0be813d55d3d68",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57fe71ff9d72450c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1002774d6e6915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e42f3c109ee6da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75da0379fd83805f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabd8fd275d0698b",
+    "type": "split",
+    "children": [
+      {
+        "id": "455269985c955d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280bb5e0ce8a2d94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87f28a4f2479279d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "619e6f1a6741676a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc02fa4ce86599aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "be0be813d55d3d68",
+  "lastOpenFiles": [
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Duchy of Viskar.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Kingdom of Velt.md",
+    "Players/Taalo.md",
+    "Players/Ozkar Kaarth.md",
+    "Players/Johan Von Alexander.md",
+    "Players/Grips.md",
+    "Players/Blunderbuss MacLorgak.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Kirk/Duchy of Kirk.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/The Capital/Settlements/Blood Gulch/Blood Gulch Region.md"
+  ]
+}

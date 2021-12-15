@@ -1,7 +1,7 @@
 # VisKar
 
 ## Ruling Body
-[[House VisKari]]
+The [[House VisKari]] is the current ruling body of VisKar and has controlled the city since the end of Third age.
 
 ## Description
 

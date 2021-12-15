@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be0be813d55d3d68",
+        "id": "0874c505d793b6e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Players/The Dam Busters.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/The Dam Busters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "be0be813d55d3d68",
+  "active": "0874c505d793b6e8",
   "lastOpenFiles": [
-    "Players/The Dam Busters.md",
-    "Session Notes/Session 11.md",
     "Session Notes/Session 10.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 5.md",
-    "Session Notes/Session 6.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 8.md"
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 1.md",
+    "Players/Party.md",
+    "Players/Taalo.md",
+    "Players/Ozkar Kaarth.md",
+    "Players/Johan Von Alexander.md",
+    "Players/Grips.md",
+    "Players/Blunderbuss MacLorgak.md",
+    "Session Notes/Session 2.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/Session 12.md",
+            "file": "Session Notes/Session 9.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 12.md",
+                "file": "Session Notes/Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -111,15 +111,15 @@
   },
   "active": "0874c505d793b6e8",
   "lastOpenFiles": [
+    "Session Notes/Session 9.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/Shops/Inn's/Inn's of Viskar.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/Shops/Inn's/White Water Inn.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 11.md",
     "Session Notes/Session 12.md",
     "Gallery/The tomb 2.png",
     "Gallery/The tomb.png",
-    "Session Notes/Session 11.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 9.md",
     "Session Notes/Session 8.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 6.md",
-    "Session Notes/Session 5.md"
+    "Session Notes/Session 7.md"
   ]
 }

@@ -1,7 +1,7 @@
 # VisKar
 
 ## Ruling Body
-The [[House VisKari]] is the current ruling body of VisKar and has controlled the city since the end of Third age.
+The [[House VisKari]] is the current ruling body of VisKar and has controlled the city since the end of Third age. Lead by Duke [[Caladan Viskari]] they reside in White Water Keep
 
 ## Description
 
@@ -38,3 +38,7 @@ The [[House VisKari]] is the current ruling body of VisKar and has controlled th
 - Food
 - Industrial
 - Special
+
+
+## Map
+![[VisKar.jpg]]

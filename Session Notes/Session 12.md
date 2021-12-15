@@ -77,4 +77,6 @@ Previous session: [[Session 12]]
 			At the end of the passageway is the spell book that when read each page will case 1d6 dmg and the pages are in infernal.
 			
 			
-			
+![[The tomb.png]]
+
+### After the tomb

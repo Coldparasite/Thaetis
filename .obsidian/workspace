@@ -7,8 +7,11 @@
         "id": "0874c505d793b6e8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Session Notes/Session 12.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +111,15 @@
   },
   "active": "0874c505d793b6e8",
   "lastOpenFiles": [
-    "Session Notes/Session 8.md",
-    "Session Notes/Session 9.md",
-    "Session Notes/Session 10.md",
+    "Session Notes/Session 12.md",
     "Session Notes/Session 11.md",
-    "Session Notes/Session 1.md",
-    "Players/Party.md",
-    "Players/Taalo.md",
-    "Players/Ozkar Kaarth.md",
-    "Players/Johan Von Alexander.md",
-    "Players/Grips.md"
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 6.md",
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md"
   ]
 }

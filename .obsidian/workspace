@@ -7,11 +7,8 @@
         "id": "0874c505d793b6e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Session Notes/Session 12.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +107,15 @@
   },
   "active": "0874c505d793b6e8",
   "lastOpenFiles": [
+    "The Peninsula/Civilization/Kingdom of Velt/Kingdom of Velt.md",
     "Session Notes/Session 12.md",
-    "Session Notes/Session 9.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/Shops/Inn's/White Water Inn.md",
-    "Session Notes/Session 8.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/Shops/Inn's/Inn's of Viskar.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 11.md",
-    "Gallery/The tomb 2.png",
-    "Gallery/The tomb.png",
-    "Session Notes/Session 7.md"
+    "Players/Blunderbuss MacLorgak.md",
+    "Players/Grips.md",
+    "Session Notes/Session 4.md",
+    "Players/Party.md",
+    "Players/Ozkar Kaarth.md",
+    "Players/Taalo.md",
+    "Players/Johan Von Alexander.md",
+    "Session Notes/Session 9.md"
   ]
 }

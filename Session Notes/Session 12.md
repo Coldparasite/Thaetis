@@ -1,4 +1,4 @@
-Previous session: [[Session 12]]
+Previous session: [[Session 11]]
 
 # Session Prep
 

@@ -7,11 +7,8 @@
         "id": "be0be813d55d3d68",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Session Notes/Session 1.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +108,15 @@
   },
   "active": "be0be813d55d3d68",
   "lastOpenFiles": [
-    "Session Notes/Session 1.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Kingdom of Velt.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Duchy of Viskar.md",
-    "Players/Taalo.md",
-    "Players/Ozkar Kaarth.md",
-    "Players/Johan Von Alexander.md",
-    "Players/Grips.md",
-    "Players/Blunderbuss MacLorgak.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Kirk/Duchy of Kirk.md"
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 6.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 9.md"
   ]
 }

@@ -1,0 +1,2 @@
+[[Session 8]]
+The Party fights Tony and Jerrod, then has an amazing interaction with the guards but making their way to the White Water Inn staying the night and in the morning meeting Vinncent WhiteStar

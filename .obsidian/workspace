@@ -7,8 +7,11 @@
         "id": "be0be813d55d3d68",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Players/The Dam Busters.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Players/The Dam Busters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
   },
   "active": "be0be813d55d3d68",
   "lastOpenFiles": [
+    "Players/The Dam Busters.md",
     "Session Notes/Session 11.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 2.md",
@@ -116,7 +121,6 @@
     "Session Notes/Session 5.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 7.md",
-    "Session Notes/Session 8.md",
-    "Session Notes/Session 9.md"
+    "Session Notes/Session 8.md"
   ]
 }

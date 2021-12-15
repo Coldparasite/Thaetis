@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/City Template.md",
+            "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/City Template.md",
+                "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "0874c505d793b6e8",
   "lastOpenFiles": [
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
     "Templates/City Template.md",
     "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/House VisKari.md",
     "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/Torvin Viskari.md",
@@ -119,7 +120,6 @@
     "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House Velt/House Velt.md",
     "Session Notes/Session 12.md",
     "Players/Blunderbuss MacLorgak.md",
-    "Players/Grips.md",
-    "Session Notes/Session 4.md"
+    "Players/Grips.md"
   ]
 }

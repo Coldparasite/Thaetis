@@ -28,6 +28,7 @@
 ### Macro Details
 
 ##### Position in the Realm
+- Income
 
 ##### Production
 - Horses

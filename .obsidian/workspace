@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
-            "mode": "preview"
+            "file": "Session Notes/Session 1.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
+                "file": "Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "be0be813d55d3d68",
   "lastOpenFiles": [
+    "Session Notes/Session 1.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Kingdom of Velt.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Duchy of Viskar.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Kingdom of Velt.md",
     "Players/Taalo.md",
     "Players/Ozkar Kaarth.md",
     "Players/Johan Von Alexander.md",
     "Players/Grips.md",
     "Players/Blunderbuss MacLorgak.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Kirk/Duchy of Kirk.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/The Capital/Settlements/Blood Gulch/Blood Gulch Region.md"
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Kirk/Duchy of Kirk.md"
   ]
 }

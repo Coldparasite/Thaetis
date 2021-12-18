@@ -17,3 +17,7 @@ History
 Investigation Expertise
 Persuasion Expertise
 Survival
+
+## Inventory
+![[Johan1.png]]
+![[Johan2.png]]

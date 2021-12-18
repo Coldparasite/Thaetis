@@ -17,3 +17,6 @@ Athletics
 Intimidation
 Performance
 
+## Inventory
+![[Blunder1.png]]
+![[Blunder2.png]]

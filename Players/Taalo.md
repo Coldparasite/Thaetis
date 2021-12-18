@@ -14,3 +14,7 @@ Animal Handling
 Arcana
 Investigation
 Survival
+
+## Inventory
+![[Taalo1.png]]
+![[Taalo2.png]]

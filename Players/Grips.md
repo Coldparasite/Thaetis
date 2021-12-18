@@ -16,3 +16,7 @@ Nature
 Perception
 Stealth
 Survival
+
+## Inventory
+![[Grips1.png]]
+![[Grips2.png]]

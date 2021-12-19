@@ -68,7 +68,7 @@ Previous session: [[Session 11]]
 					3 Grey candles - smokey candle
 					4 White Candles - midnight candle
 					3 Gold Candles - Holy Candle
-					
+			Roughly 30 books, all in infernal		
 		Hidden Passageways
 			There is a thick fog that is about waste level and various traps
 			

@@ -63,11 +63,11 @@ Previous session: [[Session 11]]
 				2 Water breathing potions
 				
 				Candles
-					2 Black Candles
-					1 Purple Candle
-					3 Grey candles
-					4 White Candles
-					3 Gold Candles
+					2 Black Candles - telport candles
+					1 Purple Candle - Truth candle
+					3 Grey candles - smokey candle
+					4 White Candles - midnight candle
+					3 Gold Candles - Holy Candle
 					
 		Hidden Passageways
 			There is a thick fog that is about waste level and various traps

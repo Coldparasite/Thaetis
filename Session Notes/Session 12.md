@@ -44,7 +44,7 @@ Previous session: [[Session 11]]
 	Secret Room
 		There are a number of chests and bookshelves with random loot
 			Loot
-				2 Scrolls of Comprehend Languages
+				1 Scrolls of Comprehend Languages
 				4 Scrolls of Cure Wounds
 				1 Scroll of Speak with Animals
 				2 Scrolls of Blindness/Deafness
@@ -85,3 +85,9 @@ If the party heads south east they'll run into SouthBury where they'll learn of 
 Otherwise if they head back to VisKar normal things will happen. There is a chance they'll run into Potemous at the White Water inn but unlikely. Tony is still in the sewers. Alexander is at the docks and has told Baxter at this point. Jerrod is at the Opium den.
 
 If the party spends an extra day before coming back to town the next time they enter Viskar the trap will be laid for them.
+
+the party has a fireball candle that has 1 charge left
+Evan has a vial of ooze
+Jack has 1 vial of ooze
+Blunderbuss has a small charcol sketch of the text on the end of the tomb
+jack has 1 holy candle

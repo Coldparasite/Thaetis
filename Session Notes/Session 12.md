@@ -87,3 +87,5 @@ Otherwise if they head back to VisKar normal things will happen. There is a chan
 If the party spends an extra day before coming back to town the next time they enter Viskar the trap will be laid for them.
 
 the party has a fireball candle that has 1 charge left
+Evan has a vial of ooze
+Jack has 1 vial of ooze

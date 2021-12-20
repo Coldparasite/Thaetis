@@ -89,3 +89,4 @@ If the party spends an extra day before coming back to town the next time they e
 the party has a fireball candle that has 1 charge left
 Evan has a vial of ooze
 Jack has 1 vial of ooze
+Blunderbuss has a small charcol sketch of the text on the end of the tomb

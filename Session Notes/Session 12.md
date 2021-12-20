@@ -44,7 +44,7 @@ Previous session: [[Session 11]]
 	Secret Room
 		There are a number of chests and bookshelves with random loot
 			Loot
-				2 Scrolls of Comprehend Languages
+				1 Scrolls of Comprehend Languages
 				4 Scrolls of Cure Wounds
 				1 Scroll of Speak with Animals
 				2 Scrolls of Blindness/Deafness

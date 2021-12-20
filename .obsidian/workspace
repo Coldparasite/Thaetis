@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Players/Blunderbuss MacLorgak.md",
+            "file": "Session Notes/Session 12.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Blunderbuss MacLorgak.md",
+                "file": "Session Notes/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "0874c505d793b6e8",
   "lastOpenFiles": [
+    "Session Notes/Session 12.md",
+    "Players/Ozkar Kaarth.md",
     "Players/Blunderbuss MacLorgak.md",
     "Players/Grips.md",
-    "Session Notes/Session 12.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/RiddenTrout Gang/Alexander Kerrigan.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/RiddenTrout Gang/Baxter RiddenTrout.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
     "Templates/City Template.md",
     "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/House VisKari.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/Torvin Viskari.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/Caladan Viskari.md"
+    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/Torvin Viskari.md"
   ]
 }

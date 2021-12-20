@@ -85,3 +85,5 @@ If the party heads south east they'll run into SouthBury where they'll learn of 
 Otherwise if they head back to VisKar normal things will happen. There is a chance they'll run into Potemous at the White Water inn but unlikely. Tony is still in the sewers. Alexander is at the docks and has told Baxter at this point. Jerrod is at the Opium den.
 
 If the party spends an extra day before coming back to town the next time they enter Viskar the trap will be laid for them.
+
+the party has a fireball candle that has 1 charge left

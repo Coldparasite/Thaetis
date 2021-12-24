@@ -7,8 +7,11 @@
         "id": "377e0e382e548026",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Session Notes/Session 12.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Session Notes/Session 12.md",
     "conflict-files-obsidian-git.md"
   ]
 }

@@ -3,6 +3,21 @@ Previous session: [[Session 11]]
 # Session Prep
 
 ## Recap
+The party muled about in the tomb for a while trying to come up with a plan to defeat the ooze that lay in the tomb. Unable to come up with a decisive plan they decided to grab the fireball candle at the entrance. This came with problems as the tomb has been designed to prevent the retrieval of the candle and the party expended 2 of the 3 remaining charges on the candle leaving them with a fireball candle with one charge. After this more planning insued and the party eventually went with the phantasmal candle lighting it and letting it fuck up the ooze. After some bickering they eventaully killed the ooze and retrieved the loot in the actual tomb area.
+
+After a casting of detect magic they discovered the room with the 4 candles was magical and they solved the puzzle. They retrieved the loot and ventured into the maze where after some confusion fell into one of the traps but were eventually able to get through it and retrieve the spellbook.
+
+Grips read one page and took some damage but hasn't thought much of it.
+
+Kaarth tried to use the coin on the globe but was given a proposition by Savant who said if he put the coin on the spellbook he'd tell Kaarth more information about the globe.
+
+The party left the tomb with Kaarth being the last to leave seeing their camp in ruins and we ended the session with Johan seeing something over the door.
+
+the party has a fireball candle that has 1 charge left
+Evan has a vial of ooze 
+Jack has 1 vial of ooze
+Blunderbuss has a small charcol sketch of the text on the end of the tomb 
+jack has 1 holy candle
 
 ## Prep
 	This session is planned to be in person.
@@ -85,9 +100,3 @@ If the party heads south east they'll run into SouthBury where they'll learn of 
 Otherwise if they head back to VisKar normal things will happen. There is a chance they'll run into Potemous at the White Water inn but unlikely. Tony is still in the sewers. Alexander is at the docks and has told Baxter at this point. Jerrod is at the Opium den.
 
 If the party spends an extra day before coming back to town the next time they enter Viskar the trap will be laid for them.
-
-the party has a fireball candle that has 1 charge left
-Evan has a vial of ooze
-Jack has 1 vial of ooze
-Blunderbuss has a small charcol sketch of the text on the end of the tomb
-jack has 1 holy candle

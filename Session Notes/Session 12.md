@@ -13,11 +13,11 @@ Kaarth tried to use the coin on the globe but was given a proposition by Savant 
 
 The party left the tomb with Kaarth being the last to leave seeing their camp in ruins and we ended the session with Johan seeing something over the door.
 
-the party has a fireball candle that has 1 charge left
-Evan has a vial of ooze 
-Jack has 1 vial of ooze
-Blunderbuss has a small charcol sketch of the text on the end of the tomb 
-jack has 1 holy candle
+the party has a fireball candle that has 1 charge left -
+Evan has a vial of ooze -
+Jack has 1 vial of ooze -
+Blunderbuss has a small charcol sketch of the text on the end of the tomb -
+jack has 1 holy candle -
 
 There were 7 Ever burning candles
 

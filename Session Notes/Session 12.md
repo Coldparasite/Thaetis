@@ -81,10 +81,10 @@ There were 7 Ever burning candles
 				
 				Candles
 					2 Black Candles - telport candles
-					1 Purple Candle - Truth candle
-					3 Grey candles - smokey candle
-					4 White Candles - midnight candle
-					3 Gold Candles - Holy Candle
+					1 Purple Candle - Truth candle Johan
+					3 Grey candles - smokey candle Lauren Kaarth grips
+					4 White Candles - midnight candle Johan
+					3 Gold Candles - Holy Candle Johanx2 Grips
 			Roughly 30 books, all in infernal		
 		Hidden Passageways
 			There is a thick fog that is about waste level and various traps

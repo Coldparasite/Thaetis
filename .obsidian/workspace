@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "c299b0e349850641",
+    "id": "061ca4332a79660b",
     "type": "split",
     "children": [
       {
-        "id": "377e0e382e548026",
+        "id": "0874c505d793b6e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/Session 12.md",
+            "file": "Session Notes/Session 13.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "218992525e733315",
+    "id": "57fe71ff9d72450c",
     "type": "split",
     "children": [
       {
-        "id": "0230a637ad36f5cb",
+        "id": "ab1002774d6e6915",
         "type": "tabs",
         "children": [
           {
-            "id": "20a9370daab435a3",
+            "id": "d3e42f3c109ee6da",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "dc2a026f4ed3e0de",
+            "id": "75da0379fd83805f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,32 +55,32 @@
     "width": 300
   },
   "right": {
-    "id": "d47c5ff15d9c9aea",
+    "id": "aabd8fd275d0698b",
     "type": "split",
     "children": [
       {
-        "id": "853a956c9e6ec0ef",
+        "id": "455269985c955d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "67318b4435f15c91",
+            "id": "280bb5e0ce8a2d94",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 12.md",
+                "file": "Session Notes/Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "57201f082a5ef436",
+            "id": "87f28a4f2479279d",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -88,10 +88,18 @@
             }
           },
           {
-            "id": "dd69c6a4ccf46cc1",
+            "id": "619e6f1a6741676a",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc02fa4ce86599aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -99,16 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "377e0e382e548026",
+  "active": "0874c505d793b6e8",
   "lastOpenFiles": [
-    "Session Notes/Session 12.md",
     "Session Notes/Session 13.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Minor Villages/SouthBury/SouthBury.md",
+    "Session Notes/Session 12.md",
+    "Players/Ozkar Kaarth.md",
+    "Players/Blunderbuss MacLorgak.md",
+    "Players/Grips.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/RiddenTrout Gang/Alexander Kerrigan.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/RiddenTrout Gang/Baxter RiddenTrout.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
     "Templates/City Template.md",
-    "conflict-files-obsidian-git.md"
+    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/House VisKari.md"
   ]
 }

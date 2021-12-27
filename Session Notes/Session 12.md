@@ -65,8 +65,8 @@ There were 7 Ever burning candles
 				4 Scrolls of Cure Wounds Johan all
 				1 Scroll of Speak with Animals Grips
 				2 Scrolls of Blindness/Deafness Kaarth Johan
-				1 Scroll of Enhance Ability 
-				2 Scrolls of Knock Kaarth
+				1 Scroll of Enhance Ability Johan
+				2 Scrolls of Knock Kaarth Johan
 				1 Scroll of Silence kaarth
 				9 Unidentified scrolls
 					3 Scrolls of Dispell Magic
@@ -76,8 +76,8 @@ There were 7 Ever burning candles
 					1 Scroll of Synaptic Static
 				2 Greater Healing potions
 				4 Healing potions
-				1 Haste Potion
-				2 Water breathing potions
+				1 Haste Potion Blunder
+				2 Water breathing potions Taalo
 				
 				Candles
 					2 Black Candles - telport candles

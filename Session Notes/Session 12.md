@@ -80,7 +80,7 @@ There were 7 Ever burning candles
 				2 Water breathing potions Taalo
 				
 				Candles
-					2 Black Candles - telport candles
+					2 Black Candles - telport candles Kaarth
 					1 Purple Candle - Truth candle Johan
 					3 Grey candles - smokey candle Lauren Kaarth grips
 					4 White Candles - midnight candle Johan

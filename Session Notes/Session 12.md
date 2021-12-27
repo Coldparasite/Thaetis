@@ -61,13 +61,13 @@ There were 7 Ever burning candles
 	Secret Room
 		There are a number of chests and bookshelves with random loot
 			Loot
-				1 Scrolls of Comprehend Languages
-				4 Scrolls of Cure Wounds
-				1 Scroll of Speak with Animals
-				2 Scrolls of Blindness/Deafness
+				1 Scrolls of Comprehend Languages Johan
+				4 Scrolls of Cure Wounds Johan all
+				1 Scroll of Speak with Animals 
+				2 Scrolls of Blindness/Deafness Kaarth
 				1 Scroll of Enhance Ability
-				2 Scrolls of Knock
-				1 Scroll of Silence
+				2 Scrolls of Knock Kaarth
+				1 Scroll of Silence kaarth
 				9 Unidentified scrolls
 					3 Scrolls of Dispell Magic
 					1 Scroll of Speak with Dead

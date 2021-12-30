@@ -7,6 +7,7 @@ Previous session: [[Session 13]]
 ## Prep
 
 ### Grimsby's Brawl
+All the Riddentrout boys are there les see what happens
 
 ### Skeksi's Shop
 

@@ -5,3 +5,9 @@ Previous session: [[Session 13]]
 ## Recap
 
 ## Prep
+
+### Grimsby's Brawl
+
+### Skeksi's Shop
+
+### Dukes Invitational 

@@ -1,6 +1,6 @@
 Previous session: [[Session 11]]
 
-# Session Prep
+# A night in the Tomb
 
 ## Recap
 The party muled about in the tomb for a while trying to come up with a plan to defeat the ooze that lay in the tomb. Unable to come up with a decisive plan they decided to grab the fireball candle at the entrance. This came with problems as the tomb has been designed to prevent the retrieval of the candle and the party expended 2 of the 3 remaining charges on the candle leaving them with a fireball candle with one charge. After this more planning insued and the party eventually went with the phantasmal candle lighting it and letting it fuck up the ooze. After some bickering they eventaully killed the ooze and retrieved the loot in the actual tomb area.

@@ -1,13 +1,13 @@
-Previous session: [[Session 13]]
+Previous session: [[Session 14]]
 
-# Trout Butchers
+# Session Prep
 
 ## Recap
 
 ## Prep
 
 ### Grimsby's Brawl
-All the Riddentrout boys are there les see what happens
+It is now nearing midnight if the party looks outside they'll notice its probably about 11:00pm, and Baxter will show up a bit after midnight.
 
 ### Skeksi's Shop
 The shop is closed but if they knock on the door Skeksi will come down and invite them in. Depending what they say Skeksi will mention that he cannot read the books but Celine Tokek can and that she is a ward of the Viskari's. He'll say he can take the books to her just not at the moment and that it'll probably be a day or two before he can give them to her and he has no idea when she'll translate them.

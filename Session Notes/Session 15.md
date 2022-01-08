@@ -8,7 +8,11 @@ The party hung around the bar until a bit before midnight before hastely leaving
 
 The party left the party know the east gate was probably guarded and decided to split the party into two groups BlunderBuss, Grips and Taalo in the first group would use the teleport candle to by pass the gate and go to the White Water Inn. While the other group of Johan and Kaarth would take the prisoner Jerrod and attempt to make it through the gate.
 
-BlunderBuss, Grips, and Taalo using the teleport candle found themselves in a burning building and through the chaos tried to save the barkeep known as Checker. As flames engulfed all around them they were able to rush out the front door and found them amongst the attack party. Seeing wolves standing like Humans and a number of men with Duke Viskari's slydial burning
+BlunderBuss, Grips, and Taalo using the teleport candle found themselves in a burning building and through the chaos tried to save the barkeep known as Checker. As flames engulfed all around them they were able to rush out the front door and found them amongst the attack party. The party exited to see wolves standing like Humans and a number of men with Duke Viskari's sigil burning down White Water Village. After being spotted moments later the party used another charge on the candle and teleported out. They then naviagated around keeping their distance from White Water till they believed it was safe eventually leaving and running into the other group.
+
+Johan, Kaarth, and Jerrod went to the east gate to scout it out, finding a number of heavily armed guards blocking their exit. After this there was quite a bit of discussion as what to do and eventually they trekked across town to go to the docks. It was once they reached the docks they could see across the bay that White Water was on fire(Not the Docks) and they then decided to use the teleport candles to get to the burnt wharehouse. Eventually they ran into the party not really knowing what happened but as a group everyone decided to go make camp at the storage yard.
+
+In the night Jerrod managed to sneak off.
 ## Prep
 
 ### Grimsby's Brawl

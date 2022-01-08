@@ -4,6 +4,11 @@ Previous session: [[Session 14]]
 
 ## Recap
 
+The party hung around the bar until a bit before midnight before hastely leaving in an attempt to avoid Baxter RiddenTrout. During this time they went out chased down Jerrod Carsgrove and brought him back to the bar. There was also some chatter between the players and the barkeep when he started to call them murderers. Eventually the party was able to intimidate him to the point where he agreed to leave and not report what they had done. After collecting some of the loot Grips found and decoded letter that Valandry had though it didn't make much sense.
+
+The party left the party know the east gate was probably guarded and decided to split the party into two groups BlunderBuss, Grips and Taalo in the first group would use the teleport candle to by pass the gate and go to the White Water Inn. While the other group of Johan and Kaarth would take the prisoner Jerrod and attempt to make it through the gate.
+
+BlunderBuss, Grips, and Taalo using the teleport candle found themselves in a burning building and through the chaos tried to save the barkeep known as Checker. As flames engulfed all around them they were able to rush out the front door and found them amongst the attack party. Seeing wolves standing like Humans and a number of men with Duke Viskari's slydial burning
 ## Prep
 
 ### Grimsby's Brawl

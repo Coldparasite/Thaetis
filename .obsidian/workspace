@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/Session 15.md",
+            "file": "Religion/Hero's of Old/Life.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 15.md",
+                "file": "Religion/Hero's of Old/Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Religion/Hero's of Old/Life.md",
+    "Religion/Hero's of Old/Death.md",
+    "Religion/Hero's of Old/The Abyss.md",
+    "Religion/Hero's of Old/Hero's of Old.md",
+    "Session Notes/Session 13.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 14.md",
-    "Session Notes/Session 13.md",
     "Session Notes/Session 12.md",
     "Session Notes/Session 11.md",
-    "Sess.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Minor Villages/SouthBury/SouthBury.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
-    "Templates/City Template.md",
-    "conflict-files-obsidian-git.md"
+    "Sess.md"
   ]
 }

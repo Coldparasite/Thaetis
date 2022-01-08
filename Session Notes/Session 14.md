@@ -3,6 +3,7 @@ Previous session: [[Session 13]]
 # Trout Butchers
 
 ## Recap
+Picking up in town square the party decided to hand all the books to Blunderbuss and then go to Grimsby's to investigate and watch for this contact that they were supposedly meant to meet. Blunderbuss went to the bookstore to find that it was closed and rejoined the party. Sitting in the Tavern for a few hours the party would see Riddentrout after Riddentrout come in eventually concluding that they had been setup. Rather than wait till Baxter came they decided to kill all the grunts and lieutenants. Blunderbuss initiating a first strike against Tony would lead the party to victory though it was a hard fought battle. The session ended early since Jackson wasn't feeling too well.
 
 ## Prep
 

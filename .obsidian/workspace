@@ -7,11 +7,8 @@
         "id": "377e0e382e548026",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Religion/Hero's of Old/Life.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Hero's of Old/Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +100,15 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
-    "Religion/Hero's of Old/Life.md",
-    "Religion/Hero's of Old/Death.md",
-    "Religion/Hero's of Old/The Abyss.md",
+    "Religion/Religions.md",
+    "Religion/The Dragon Lords/The Dragon Lords.md",
     "Religion/Hero's of Old/Hero's of Old.md",
-    "Session Notes/Session 13.md",
-    "Session Notes/Session 15.md",
-    "Session Notes/Session 14.md",
-    "Session Notes/Session 12.md",
-    "Session Notes/Session 11.md",
-    "Sess.md"
+    "Religion/The Nine Princes/The Nine Princes.md",
+    "Religion/The Nine Princes/The Watcher.md",
+    "Religion/The Nine Princes/The Traveller.md",
+    "Religion/The Nine Princes/The Hunter.md",
+    "Religion/The Nine Princes/Reclaimer.md",
+    "Religion/The Nine Princes/The Farmer.md",
+    "Religion/The Nine Princes/The Thief.md"
   ]
 }

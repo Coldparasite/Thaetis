@@ -7,8 +7,11 @@
         "id": "377e0e382e548026",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Religion/Hero's of Old/Chaos.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion/Hero's of Old/Chaos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Religion/Hero's of Old/Chaos.md",
     "Religion/Religions.md",
     "Religion/The Dragon Lords/The Dragon Lords.md",
     "Religion/Hero's of Old/Hero's of Old.md",
@@ -108,7 +113,6 @@
     "Religion/The Nine Princes/The Traveller.md",
     "Religion/The Nine Princes/The Hunter.md",
     "Religion/The Nine Princes/Reclaimer.md",
-    "Religion/The Nine Princes/The Farmer.md",
-    "Religion/The Nine Princes/The Thief.md"
+    "Religion/The Nine Princes/The Farmer.md"
   ]
 }

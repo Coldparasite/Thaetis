@@ -16,6 +16,8 @@ Persuasion
 Survival
 
 # DM Notes
+Mother(Elf) whereabouts unknown probable dead
+Father (Half-Elf) Dead not much known
 Age - late 30's
 Kaarth was married and had a kid in his early 20's, and that family lasted about 10 years until the events that led him to leave home.
 

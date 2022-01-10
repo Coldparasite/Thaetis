@@ -15,6 +15,3 @@ Perception
 Persuasion
 Survival
 
-## Inventory
-![[Kaarth1.png]]
-![[Kaarth2.png]]

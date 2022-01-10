@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religion/Hero's of Old/Chaos.md",
+            "file": "Players/Ozkar Kaarth.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Hero's of Old/Chaos.md",
+                "file": "Players/Ozkar Kaarth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Players/Ozkar Kaarth.md",
     "Religion/Hero's of Old/Chaos.md",
     "Religion/Religions.md",
     "Religion/The Dragon Lords/The Dragon Lords.md",
@@ -112,7 +113,6 @@
     "Religion/The Nine Princes/The Watcher.md",
     "Religion/The Nine Princes/The Traveller.md",
     "Religion/The Nine Princes/The Hunter.md",
-    "Religion/The Nine Princes/Reclaimer.md",
-    "Religion/The Nine Princes/The Farmer.md"
+    "Religion/The Nine Princes/Reclaimer.md"
   ]
 }

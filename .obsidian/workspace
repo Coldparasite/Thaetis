@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/Session 12.md",
+            "file": "Session Notes/Session 16.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 12.md",
+                "file": "Session Notes/Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,8 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Session Notes/Session 16.md",
+    "Session Notes/Session 15.md",
     "Session Notes/Session 12.md",
     "Session Notes/Session 13.md",
     "Session Notes/Session 14.md",
@@ -111,8 +113,6 @@
     "Religion/Hero's of Old/Chaos.md",
     "Religion/Religions.md",
     "Religion/The Dragon Lords/The Dragon Lords.md",
-    "Religion/Hero's of Old/Hero's of Old.md",
-    "Religion/The Nine Princes/The Nine Princes.md",
-    "Religion/The Nine Princes/The Watcher.md"
+    "Religion/Hero's of Old/Hero's of Old.md"
   ]
 }

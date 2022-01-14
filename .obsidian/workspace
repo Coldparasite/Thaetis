@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Players/Ozkar Kaarth.md",
+            "file": "Session Notes/Session 12.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Ozkar Kaarth.md",
+                "file": "Session Notes/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Session Notes/Session 12.md",
+    "Session Notes/Session 13.md",
+    "Session Notes/Session 14.md",
     "Players/Ozkar Kaarth.md",
     "Religion/Hero's of Old/Chaos.md",
     "Religion/Religions.md",
     "Religion/The Dragon Lords/The Dragon Lords.md",
     "Religion/Hero's of Old/Hero's of Old.md",
     "Religion/The Nine Princes/The Nine Princes.md",
-    "Religion/The Nine Princes/The Watcher.md",
-    "Religion/The Nine Princes/The Traveller.md",
-    "Religion/The Nine Princes/The Hunter.md",
-    "Religion/The Nine Princes/Reclaimer.md"
+    "Religion/The Nine Princes/The Watcher.md"
   ]
 }

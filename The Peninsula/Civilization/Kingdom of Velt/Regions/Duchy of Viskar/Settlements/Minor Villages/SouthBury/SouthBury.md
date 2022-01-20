@@ -1,7 +1,7 @@
 # Name
 
 ## Ruling Body
-Strellyn Sterthscarr
+Strellyn Strealthscarr
 ## Description
 
 ## City Details

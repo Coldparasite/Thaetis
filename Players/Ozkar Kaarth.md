@@ -30,3 +30,5 @@ Kaarth was married and had a kid in his early 20's, and that family lasted about
 Bounty Hunting days probably started with his father when he was a young adult like 16 and continued until he was 22ish at which point he met his wife. After the death of his family he picked up the trade slowly making his way through Dabberath until the start of the campaign.
 
 ## Magic items
+The black and white coin
+Whisper a name of a person/place/thing and if that thing is within the network of the Gambler then you shall recieve its general location. Once a name is given if valid it will not be removed until the wielder finds this person/place/thing. A repeated request can be made for the general location of the thing.

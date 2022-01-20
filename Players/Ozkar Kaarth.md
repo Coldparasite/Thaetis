@@ -28,3 +28,5 @@ like a sentence or two of how you got to where you're going and why: After the d
 Kaarth was married and had a kid in his early 20's, and that family lasted about 10 years until the events that led him to leave home.
 
 Bounty Hunting days probably started with his father when he was a young adult like 16 and continued until he was 22ish at which point he met his wife. After the death of his family he picked up the trade slowly making his way through Dabberath until the start of the campaign.
+
+## Magic items

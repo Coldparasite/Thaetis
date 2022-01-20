@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/Session 17.md",
+            "file": "Players/Ozkar Kaarth.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 17.md",
+                "file": "Players/Ozkar Kaarth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Players/Ozkar Kaarth.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 15.md",
@@ -111,7 +112,6 @@
     "Session Notes/Session 12.md",
     "Session Notes/Session 13.md",
     "Session Notes/Session 14.md",
-    "Players/Ozkar Kaarth.md",
     "Religion/Hero's of Old/Chaos.md",
     "Religion/Religions.md"
   ]

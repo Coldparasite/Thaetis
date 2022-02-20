@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religion/Hero's of Old/Hero's of Old.md",
+            "file": "Session Notes/Session 20.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Hero's of Old/Hero's of Old.md",
+                "file": "Session Notes/Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Session Notes/Session 20.md",
+    "Session Notes/Session 19.md",
+    "Session Notes/Session 18.md",
+    "Session Notes/Session 17.md",
     "Religion/Hero's of Old/Hero's of Old.md",
     "Religion/The Nine Princes/The Watcher.md",
     "Religion/The Nine Princes/The Traveller.md",
     "Religion/The Nine Princes/The Thief.md",
     "Religion/The Nine Princes/The Nine Princes.md",
-    "Religion/The Nine Princes/The Hunter.md",
-    "Religion/The Nine Princes/The Gambler.md",
-    "Religion/The Nine Princes/The Farmer.md",
-    "Religion/The Nine Princes/The Executioner.md",
-    "Religion/The Nine Princes/Reclaimer.md"
+    "Religion/The Nine Princes/The Hunter.md"
   ]
 }

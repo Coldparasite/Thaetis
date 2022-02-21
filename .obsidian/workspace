@@ -7,8 +7,11 @@
         "id": "377e0e382e548026",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Session Notes/Session 15.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +104,15 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
-    "Players/Grips.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/Torvin Viskari.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/House VisKari.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/Caladan Viskari.md",
-    "Session Notes/Session 20.md",
-    "Session Notes/Session 19.md",
-    "Session Notes/Session 18.md",
+    "Session Notes/Session 15.md",
+    "Session Notes/Session 16.md",
     "Session Notes/Session 17.md",
-    "Religion/Hero's of Old/Hero's of Old.md",
-    "Religion/The Nine Princes/The Watcher.md"
+    "Session Notes/Session 18.md",
+    "Session Notes/Session 19.md",
+    "Session Notes/Session 20.md",
+    "Session Notes/Session 12.md",
+    "Session Notes/Session 13.md",
+    "Players/Grips.md",
+    "The Peninsula/Civilization/Kingdom of Velt/Noble Houses/House VisKari/Torvin Viskari.md"
   ]
 }

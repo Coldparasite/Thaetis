@@ -13,6 +13,7 @@ BlunderBuss, Grips, and Taalo using the teleport candle found themselves in a bu
 Johan, Kaarth, and Jerrod went to the east gate to scout it out, finding a number of heavily armed guards blocking their exit. After this there was quite a bit of discussion as what to do and eventually they trekked across town to go to the docks. It was once they reached the docks they could see across the bay that White Water was on fire(Not the Docks) and they then decided to use the teleport candles to get to the burnt wharehouse. Eventually they ran into the party not really knowing what happened but as a group everyone decided to go make camp at the storage yard.
 
 In the night Jerrod managed to sneak off.
+
 ## Prep
 
 ### Grimsby's Brawl

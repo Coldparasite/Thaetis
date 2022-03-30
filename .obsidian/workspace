@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/Session 12.md",
+            "file": "Session Notes/Session 14.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 12.md",
+                "file": "Session Notes/Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,10 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
-    "Session Notes/Session 12.md",
+    "Session Notes/Session 14.md",
     "Session Notes/Session 13.md",
+    "Sess.md",
+    "Session Notes/Session 12.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Minor Villages/SouthBury/SouthBury.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
     "Templates/City Template.md",

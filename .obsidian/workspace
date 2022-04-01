@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religion/Hero's of Old/The Abyss.md",
+            "file": "Players/Blunderbuss MacLorgak.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Hero's of Old/The Abyss.md",
+                "file": "Players/Blunderbuss MacLorgak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
-    "Religion/Hero's of Old/The Abyss.md",
-    "Session Notes/Session 12.md",
-    "Session Notes/Session 11.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 9.md",
-    "Session Notes/Session 8.md",
-    "Session Notes/Session 13.md",
-    "Session Notes/Session 14.md",
-    "Session Notes/Session 21.md",
-    "Session Notes/Session 1.md"
+    "Players/Blunderbuss MacLorgak.md",
+    "Players/Grips.md",
+    "Players/Taalo.md",
+    "Religion/Hero's of Old/Chaos.md",
+    "Religion/Hero's of Old/Corruption.md",
+    "Religion/Hero's of Old/Death.md",
+    "Religion/Hero's of Old/Hero's of Old.md",
+    "Religion/Hero's of Old/Life.md",
+    "Religion/Hero's of Old/Light.md",
+    "Religion/Hero's of Old/Mercy.md"
   ]
 }

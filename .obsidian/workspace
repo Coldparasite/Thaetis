@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Players/Blunderbuss MacLorgak.md",
+            "file": "ITDD Session Notes/Session 22.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Blunderbuss MacLorgak.md",
+                "file": "ITDD Session Notes/Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,25 +94,33 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "3cadaa169878eefe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "ITDD Session Notes/Session 22.md",
+    "ITDD Session Notes/Session 21.md",
+    "ITDD Session Notes/Session 20.md",
+    "ITDD Session Notes/Session 1.md",
+    "ITDD Session Notes/Session 2.md",
     "Players/Blunderbuss MacLorgak.md",
     "Players/Grips.md",
     "Players/Taalo.md",
     "Religion/Hero's of Old/Chaos.md",
-    "Religion/Hero's of Old/Corruption.md",
-    "Religion/Hero's of Old/Death.md",
-    "Religion/Hero's of Old/Hero's of Old.md",
-    "Religion/Hero's of Old/Life.md",
-    "Religion/Hero's of Old/Light.md",
-    "Religion/Hero's of Old/Mercy.md"
+    "Religion/Hero's of Old/Corruption.md"
   ]
 }

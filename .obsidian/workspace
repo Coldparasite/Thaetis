@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ITDD Session Notes/Session 22.md",
+            "file": "KC session notes/Session 0.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITDD Session Notes/Session 22.md",
+                "file": "KC session notes/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "KC session notes/Session 0.md",
     "ITDD Session Notes/Session 22.md",
     "ITDD Session Notes/Session 21.md",
     "ITDD Session Notes/Session 20.md",
@@ -120,7 +121,6 @@
     "Players/Blunderbuss MacLorgak.md",
     "Players/Grips.md",
     "Players/Taalo.md",
-    "Religion/Hero's of Old/Chaos.md",
-    "Religion/Hero's of Old/Corruption.md"
+    "Religion/Hero's of Old/Chaos.md"
   ]
 }

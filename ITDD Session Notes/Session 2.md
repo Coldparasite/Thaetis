@@ -1,4 +1,4 @@
-Previous session: [[Session 1]]
+Previous session: [[ITDD Session Notes/Session 1]]
 # Into the Mountains
 The party is Ambushed on the peaks and rides the avalanche down
 

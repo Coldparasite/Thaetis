@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KC session notes/Session 0.md",
+            "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KC session notes/Session 0.md",
+                "file": "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,14 +104,15 @@
   },
   "active": "26d756c68b94fdbc",
   "lastOpenFiles": [
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
+    "Players/Blunderbuss MacLorgak.md",
+    "ITDD Session Notes/Session 22.md",
+    "ITDD Session Notes/Session 21.md",
+    "KC session notes/Session 1.md",
     "KC session notes/Session 0.md",
     "conflict-files-obsidian-git.md",
     "Session Notes/Session 14.md",
     "Session Notes/Session 13.md",
-    "Sess.md",
-    "Session Notes/Session 12.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Minor Villages/SouthBury/SouthBury.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
-    "Templates/City Template.md"
+    "Sess.md"
   ]
 }

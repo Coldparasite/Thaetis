@@ -20,3 +20,7 @@ Survival
 ## Inventory
 ![[Grips1.png]]
 ![[Grips2.png]]
+
+Dear Master Grips
+
+While we here at his majesty's court find your claims of barrenness unfounds and an insult to the Kings honor we hereby refuse to invest in your snake oil.

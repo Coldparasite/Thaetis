@@ -20,3 +20,14 @@ Performance
 ## Inventory
 ![[Blunder1.png]]
 ![[Blunder2.png]]
+
+Hey Cupcake,
+
+Glad to hear all is well, Your Pa and I were starting to get worried as the Lady Giselle had sent guards to question us about you. We told them that our Cupcake wouldn't get involved with nobility.
+
+Huck's doing well with the tigers, they only tried to bite him 3 times this week so we're steadily making progress. Quest keeps asking about you and where you've gone, They miss you and hope you come  back soon.
+
+I'll have those magic gnome muffins ready by the time you get back. Hope to see you soon and good luck on whatever your doing.
+
+Love
+Ma and Pa

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ITDD Session Notes/Session 17.md",
+            "file": "Players/Grips.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITDD Session Notes/Session 17.md",
+                "file": "Players/Grips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "377e0e382e548026",
   "lastOpenFiles": [
+    "Players/Grips.md",
+    "Players/Blunderbuss MacLorgak.md",
     "ITDD Session Notes/Session 17.md",
     "ITDD Session Notes/Session 18.md",
     "ITDD Session Notes/Session 19.md",
@@ -119,8 +121,6 @@
     "ITDD Session Notes/Session 21.md",
     "ITDD Session Notes/Session 22.md",
     "KC session notes/Session 0.md",
-    "ITDD Session Notes/Session 1.md",
-    "ITDD Session Notes/Session 2.md",
-    "Players/Blunderbuss MacLorgak.md"
+    "ITDD Session Notes/Session 1.md"
   ]
 }

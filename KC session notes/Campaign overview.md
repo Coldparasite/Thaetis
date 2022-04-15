@@ -18,13 +18,13 @@ Lauren - Salvia
 	Health Rolls: (fixed)
 Callie - Zathora
 	Exp: 348
-	Health Rolls: (fixed)
+	Health Rolls: 8+7
 Allie - Svorroom
 	Exp: 348
 	Health Rolls: (fixed)
 Jamie - Gregg
 	Exp: 348
-	Health Rolls: (fixed)
+	Health Rolls: 8+5 = 13
 	
 ## Exploration Sites
 ### Tomb of the Ancients

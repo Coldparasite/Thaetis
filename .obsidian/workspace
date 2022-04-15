@@ -13,6 +13,14 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "1af94d9dc36a5538",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KC session notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +109,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26d756c68b94fdbc",
+  "active": "1af94d9dc36a5538",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "KC session notes/Session 1.md",
     "KC session notes/Session 0.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
     "Players/Blunderbuss MacLorgak.md",
     "ITDD Session Notes/Session 22.md",
     "ITDD Session Notes/Session 21.md",
-    "conflict-files-obsidian-git.md",
     "Session Notes/Session 14.md",
     "Session Notes/Session 13.md",
     "Sess.md"

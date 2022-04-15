@@ -20,3 +20,11 @@ Survival
 ## Inventory
 ![[Grips1.png]]
 ![[Grips2.png]]
+
+Dear Master Grips
+
+I Grand Master Chef Snork Quick Hand have never heard of your prowess in the kitchen. While the kings advisor finds this letter insulting I am rather curious about your enterprise. I recommend you make your way to the Chefs Brotherhoods in Portsmouth to gain some reputation and maybe then the King will invite you to cook for him.
+
+Goodluck
+Snork Quick Hand
+

@@ -9,7 +9,7 @@ Captain: Zazz
 ## Party Status
 Jack - Tobar
 	Exp: 348
-	Health Rolls: 8+ 
+	Health Rolls: (fixed)
 Evan - Nemo
 	Exp: 348
 	Health Rolls: (fixed)

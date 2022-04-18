@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "26d756c68b94fdbc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "KC session notes/Session 1.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "1af94d9dc36a5538",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Players/Grips.md",
+            "file": "Players/Party.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Grips.md",
+                "file": "Players/Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +104,7 @@
   },
   "active": "1af94d9dc36a5538",
   "lastOpenFiles": [
+    "Players/Party.md",
     "Players/Grips.md",
     "ITDD Session Notes/Session 21.md",
     "ITDD Session Notes/Session 22.md",
@@ -123,7 +113,6 @@
     "KC session notes/Session 0.md",
     "conflict-files-obsidian-git.md",
     "KC session notes/Session 1.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
-    "Players/Blunderbuss MacLorgak.md"
+    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md"
   ]
 }

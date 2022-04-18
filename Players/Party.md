@@ -6,3 +6,5 @@
 * [[Johan Von Alexander]]
 * [[Ozkar Kaarth]]
 * [[Taalo]]
+
+Magic items overview

@@ -27,6 +27,7 @@ Magic Items: All these have limit 1 besides magical weapons
 2: Bottle of Boundless Coffee : Near Unlimited Coffee
 2: DriftGlobe : Floating ball of magical light
 2: Rope of Climbing : A sentient rope that can be issued commands
+3: Ruby of the War Mage: Lets you turn any weapon into a SpellCasting Focus
 3: +1 Weapon : Its a +1 magical weapon no extra effects
 3: Cloak of Protection : +1 bonus to AC and saving throws
 4: Bag of holding : A backpack that holds 500lb but weighs as if 1lb

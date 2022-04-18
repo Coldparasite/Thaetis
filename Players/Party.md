@@ -25,4 +25,5 @@ Consumable items:
 
 Magic Items:
 3: +1 Weapon : Its a +1 magical weapon no extra effects
+4: Bag of holding : (limit 1) A backpack that holds 500lb but weighs as if 1lb
 

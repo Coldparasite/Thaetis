@@ -39,3 +39,7 @@ Magic Items: All these have limit 1 besides magical weapons
 6: Medallion of Thoughts: Lets you cast Detect Thoughts 3 times per day
 6: Ioun Stone of Historical knowledge : Grants Proficiency in History
 8: Wand of Fireballs: Lets you cast fireball
+
+Other Options
+12: Montagues Notes : This will give you information/locations of various tombs, Dungeons, Mysterious happenstances, and other things Montague finds interesting about the Peninsula.
+12: IOU from Montague : We'll Chalk this up to Montague owing you one

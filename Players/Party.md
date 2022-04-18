@@ -24,6 +24,7 @@ Consumable items:
 1: Potion of speed : Grants the user Haste
 
 Magic Items: All these have limit 1 besides magical weapons
+2: Bottle of Boundless Coffee : Near Unlimited Coffee
 2: DriftGlobe : Floating ball of magical light
 2: Rope of Climbing : A sentient rope that can be issued commands
 3: +1 Weapon : Its a +1 magical weapon no extra effects
@@ -33,4 +34,7 @@ Magic Items: All these have limit 1 besides magical weapons
 4: Gauntlets of Orgre power : Strength score becomes 19
 4: Wand of Magic missle : It casts magic missle
 5: Immovable Rod : A rod thats immovable
+5: Robe of Eyes : You see everything within 120 ft of you
 6: Medallion of Thoughts: Lets you cast Detect Thoughts 3 times per day
+6: Ioun Stone of Historical knowledge : Grants Proficiency in History
+8: Wand of Fireballs: Lets you cast fireball

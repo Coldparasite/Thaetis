@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KC session notes/Campaign overview.md",
+            "file": "Players/Grips.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KC session notes/Campaign overview.md",
+                "file": "Players/Grips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "1af94d9dc36a5538",
   "lastOpenFiles": [
+    "Players/Grips.md",
+    "ITDD Session Notes/Session 21.md",
+    "ITDD Session Notes/Session 22.md",
     "KC session notes/Campaign overview.md",
     "KC session notes/Session 2.md",
     "KC session notes/Session 0.md",
     "conflict-files-obsidian-git.md",
     "KC session notes/Session 1.md",
     "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md",
-    "Players/Blunderbuss MacLorgak.md",
-    "ITDD Session Notes/Session 22.md",
-    "ITDD Session Notes/Session 21.md",
-    "Session Notes/Session 14.md"
+    "Players/Blunderbuss MacLorgak.md"
   ]
 }

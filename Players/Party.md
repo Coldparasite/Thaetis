@@ -23,9 +23,14 @@ Consumable items:
 1: 5 feather tokens : Grants the user the effects of featherfall
 1: Potion of speed : Grants the user Haste
 
-Magic Items:
+Magic Items: All these have limit 1 besides magical weapons
+2: DriftGlobe : Floating ball of magical light
+2: Rope of Climbing : A sentient rope that can be issued commands
 3: +1 Weapon : Its a +1 magical weapon no extra effects
 3: Cloak of Protection : +1 bonus to AC and saving throws
-4: Bag of holding : (limit 1) A backpack that holds 500lb but weighs as if 1lb
+4: Bag of holding : A backpack that holds 500lb but weighs as if 1lb
 4: Cloak of Elvenkind : You become one sneaky boy adv on stealth checks
-
+4: Gauntlets of Orgre power : Strength score becomes 19
+4: Wand of Magic missle : It casts magic missle
+5: Immovable Rod : A rod thats immovable
+6: Medallion of Thoughts: Lets you cast Detect Thoughts 3 times per day

@@ -25,5 +25,7 @@ Consumable items:
 
 Magic Items:
 3: +1 Weapon : Its a +1 magical weapon no extra effects
+3: Cloak of Protection : +1 bonus to AC and saving throws
 4: Bag of holding : (limit 1) A backpack that holds 500lb but weighs as if 1lb
+4: Cloak of Elvenkind : You become one sneaky boy adv on stealth checks
 

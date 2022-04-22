@@ -44,6 +44,11 @@ exp -
 	playing with death(jamie): 50xp
 total: 375xp
 jamie: 425xp
+
+### Alchemist
+Entrance -
+key: 7 - 17 - 11 - 9 - 14 - 10 - 15 - 25 - 8
+exp: 10
 ### Sharkeye Boat
 ### Bullywug Village
 ### Sharkeye campsite

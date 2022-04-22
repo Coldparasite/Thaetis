@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KC session notes/Untitled.md",
+            "file": "KC session notes/Campaign overview.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KC session notes/Untitled.md",
+                "file": "KC session notes/Campaign overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,8 @@
   },
   "active": "1af94d9dc36a5538",
   "lastOpenFiles": [
-    "KC session notes/Untitled.md",
     "KC session notes/Campaign overview.md",
+    "KC session notes/Volmoth Dagger.md",
     "Players/Party.md",
     "Players/Grips.md",
     "ITDD Session Notes/Session 21.md",

@@ -31,7 +31,11 @@ Jamie - Gregg
 overview
 loot - 
 	2 mithral bars(1lb each) = 2500gp
-	Demon Daggers
+	[[Volmoth Dagger]]
+	corroded map
+	4 healing potions(common)
+	potion of Clairvoyance
+	
 ### Sharkeye Boat
 ### Bullywug Village
 ### Sharkeye campsite

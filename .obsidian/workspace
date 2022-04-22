@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Players/Party.md",
+            "file": "KC session notes/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Party.md",
+                "file": "KC session notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "1af94d9dc36a5538",
   "lastOpenFiles": [
+    "KC session notes/Untitled.md",
+    "KC session notes/Campaign overview.md",
     "Players/Party.md",
     "Players/Grips.md",
     "ITDD Session Notes/Session 21.md",
     "ITDD Session Notes/Session 22.md",
-    "KC session notes/Campaign overview.md",
     "KC session notes/Session 2.md",
     "KC session notes/Session 0.md",
     "conflict-files-obsidian-git.md",
-    "KC session notes/Session 1.md",
-    "The Peninsula/Civilization/Kingdom of Velt/Regions/Duchy of Viskar/Settlements/Viskar/VisKar.md"
+    "KC session notes/Session 1.md"
   ]
 }

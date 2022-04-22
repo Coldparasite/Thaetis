@@ -28,6 +28,10 @@ Jamie - Gregg
 	
 ## Exploration Sites
 ### Tomb of the Ancients
+overview
+loot - 
+	2 mithral bars(1lb each) = 2500gp
+	Demon Daggers
 ### Sharkeye Boat
 ### Bullywug Village
 ### Sharkeye campsite

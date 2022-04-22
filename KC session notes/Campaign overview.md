@@ -38,6 +38,8 @@ loot -
 	
 exp -
 	roygbiv puzzle: 100xp
+	combat: 200xp
+	river crossing: 25xp
 	
 ### Sharkeye Boat
 ### Bullywug Village

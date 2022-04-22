@@ -40,7 +40,10 @@ exp -
 	roygbiv puzzle: 100xp
 	combat: 200xp
 	river crossing: 25xp
-	
+	roleplaying: 50xp
+	playing with death(jamie): 50xp
+total: 375xp
+jamie: 425xp
 ### Sharkeye Boat
 ### Bullywug Village
 ### Sharkeye campsite

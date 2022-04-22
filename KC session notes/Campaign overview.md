@@ -31,10 +31,13 @@ Jamie - Gregg
 overview
 loot - 
 	2 mithral bars(1lb each) = 2500gp
-	[[Volmoth Dagger]]
+	A set of 5 [[Volmoth Dagger]]'s
 	corroded map
 	4 healing potions(common)
 	potion of Clairvoyance
+	
+exp -
+	roygbiv puzzle: 100xp
 	
 ### Sharkeye Boat
 ### Bullywug Village

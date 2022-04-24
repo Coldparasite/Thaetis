@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KC session notes/Campaign overview.md",
+            "file": "ITDD Session Notes/General Campaign notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KC session notes/Campaign overview.md",
+                "file": "ITDD Session Notes/General Campaign notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "1af94d9dc36a5538",
   "lastOpenFiles": [
+    "ITDD Session Notes/General Campaign notes.md",
     "KC session notes/Campaign overview.md",
     "KC session notes/Volmoth Dagger.md",
     "Players/Party.md",
@@ -112,7 +113,6 @@
     "ITDD Session Notes/Session 22.md",
     "KC session notes/Session 2.md",
     "KC session notes/Session 0.md",
-    "conflict-files-obsidian-git.md",
-    "KC session notes/Session 1.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
